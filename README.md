@@ -28,8 +28,10 @@ Face-Recognition-OpenCV/
 **Step 1**: Clone the Repository
 git clone https://github.com/your-username/face-recognition-opencv.git
 cd face-recognition-opencv
+
 **Step 2**: Install Dependencies
 pip install opencv-python
+
 **Step 3**: Run the Project
 python face_detection.py
 
