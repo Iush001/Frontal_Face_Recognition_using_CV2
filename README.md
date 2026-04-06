@@ -26,7 +26,7 @@ Face-Recognition-OpenCV/
 **⚙️ Installation & Setup**
 
 **Step 1**: Clone the Repository
-git clone https://github.com/your-username/face-recognition-opencv.git
+git clone https://github.com/Iush001/Frontal_Face_Recognition_using_CV2.git
 cd face-recognition-opencv
 
 **Step 2**: Install Dependencies
